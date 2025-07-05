@@ -89,6 +89,6 @@ h2 {
 p {font-size: 25px;
   }
 #parent {
-  display: block;
+  flex-direction: column;
 }
 }
